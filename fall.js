@@ -6,8 +6,8 @@
 // @author       Горицвет [1705753]
 // @match        https://catwar.su/cw3/*
 // @match        https://catwar.net/cw3/*
-// @updateURL    https://github.com/SpringChaos-boop/Fall-Damage-Calculator/blob/main/fall.js
-// @downloadURL  https://github.com/SpringChaos-boop/Fall-Damage-Calculator/blob/main/fall.js
+// @updateURL    https://raw.githubusercontent.com/SpringChaos-boop/Fall-Damage-Calculator/refs/heads/main/fall.js
+// @downloadURL  https://raw.githubusercontent.com/SpringChaos-boop/Fall-Damage-Calculator/refs/heads/main/fall.js
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
